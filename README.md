@@ -1,6 +1,4 @@
-# QGISPluginNVDBv1.0
-Plugin til NVDB v1.0
-
+<h1 style = "color:green;">NVDB Plugin Installasjon</h1>
 
 1 - laste ned i din lokal hardisk (PC), må huske hvor skal du laste ned zip fil.
 
