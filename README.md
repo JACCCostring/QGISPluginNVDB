@@ -1,6 +1,6 @@
 <h1 style = "color:green;">NVDB Plugin Installasjon</h1>
 
-<h3> 1 - laste ned i din lokal hardisk (PC), er viktig å huske hvor du lastet du ned zip fil i din lokal hardisk</h3>
+<h3> 1 - laste ned i din lokal hardisk (PC), er viktig å huske hvor lastet du ned zip fil i din lokal hardisk</h3>
 
 ![image](https://github.com/JACCCostring/QGISPluginNVDBv1.0/assets/93591202/a17bec45-e4b3-4481-b98c-ff940c2d5957)
 
